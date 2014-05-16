@@ -1,0 +1,10 @@
+{
+  "name": "node-express-experiments-2",
+  "description": "experiments with express + handlebars.js",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "hbs": "*"
+  }
+}
